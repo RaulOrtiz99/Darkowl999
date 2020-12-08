@@ -17,12 +17,11 @@
 - - -
 
 ### front end technologies
-* Angular
+* Vuejs
 * Flutter web
 - - -
 
 ### backend technologies
-* Spring
-* Spring boot
-* Flask 
+* Laravel
+* Django 
 
