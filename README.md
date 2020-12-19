@@ -22,6 +22,6 @@
 - - -
 
 ### backend technologies
-* Laravel
-* Django 
+* Rails 
+* Django
 
