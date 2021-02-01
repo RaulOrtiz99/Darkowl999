@@ -24,6 +24,7 @@
 - - -
 
 ### backend technologies
-* Rails 
+* Spring
 * Django
+* Nodejs
 
