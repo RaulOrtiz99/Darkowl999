@@ -15,6 +15,7 @@
 ### technology stack
 
 #### mobile
+
 * Native android development
 * Flutter
 - - -
