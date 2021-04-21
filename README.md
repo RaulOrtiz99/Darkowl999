@@ -4,7 +4,7 @@
 
 
 
-## I am a mobile programmer, a lover of code and coffee
+## I am a mobile programmer, a lover of code and tea
 
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="1600" height="300" />
 
@@ -13,18 +13,20 @@
 
 
 ### technology stack
+
 #### mobile
 * Native android development
 * Flutter
 - - -
 
 ### front end technologies
-* Vuejs
+* Reactjs
 * Flutter web
 - - -
 
 ### backend technologies
-* Spring
+
 * Django
 * Nodejs
+* express
 
