@@ -4,7 +4,7 @@
 
 
 
-## I am a mobile programmer, a lover of code and tea
+## I am programmer, a lover of code and tea
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="1600" height="300" />
 
