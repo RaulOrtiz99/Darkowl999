@@ -21,7 +21,6 @@
 - - -
 
 ### front end technologies
-* Reactjs
 * Flutter web
 - - -
 
